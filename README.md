@@ -7,4 +7,4 @@ This analysis covers How and how many time he got out,how much he scored, agains
 
 Added The graphical representation of above information.
 
-Tableau dashboard used for graphical/visualization purpose,please find it here[https://prod-apnortheast-a.online.tableau.com/t/vhgf/views/Virat_ODI_analysis/Dashboard1]
+Tableau dashboard used for graphical/visualization purpose,please find it here[https://public.tableau.com/authoring/ViratODI_project/Dashboard1#1]
